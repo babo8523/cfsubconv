@@ -1,4 +1,4 @@
-name = "my-sub-converter"
+name = "my-sub-converter2"
 main = "src/index.ts"
 compatibility_date = "2024-04-01"
 
@@ -7,7 +7,7 @@ mode = "smart"
 
 [[kv_namespaces]]
 binding = "SUB_CACHE"
-id = "KV_ID_PLACEHOLDER"
+id = "bb0307f1e07e4ecf95d772154b4f974e"
 
 [vars]
 # 💥 私密管理密碼（選填）：設定後將保護「已儲存的配置」管理區域，避免他人檢視或竄改
